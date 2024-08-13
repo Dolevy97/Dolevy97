@@ -35,10 +35,6 @@ As a passionate Fullstack Developer, I thrive on solving complex challenges and 
 ### 📞 Get in Touch
 
 <div>
-  <a href="https://www.linkedin.com/in/dolev-levy-658436223/" style="text-decoration: none;">
-    <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:Dolevlevy97@gmail.com" style="text-decoration: none;">
-    <img alt="Gmail Badge" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  <a href="https://www.linkedin.com/in/dolev-levy-658436223/" style="text-decoration: none;"><img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:Dolevlevy97@gmail.com" style="text-decoration: none;"><img alt="Gmail Badge" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
