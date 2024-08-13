@@ -26,6 +26,15 @@ As a passionate Fullstack Developer, I thrive on solving complex challenges and 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" style="width: 50px; height: 50px;">
 </div>
 
+#### Backend Expertise
+
+<div>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongo" style="width: 50px; height: 50px;">
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" style="width: 50px; height: 50px;">
+  <img src="https://skillicons.dev/icons?i=express" alt="express" style="width: 50px; height: 50px;">
+  <img src="https://skillicons.dev/icons?i=php" alt="php" style="width: 50px; height: 50px;">
+</div>
+
 #### Additional Tools
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img alt="Redux Badge" src="https://img.shields.io/badge/Redux-8d73bd?style=for-the-badge&logo=redux&logoColor=fff">
